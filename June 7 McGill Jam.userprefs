@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/First Person Drifter Controller/Scripts/LockMouse.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player/ClickThings.cs">
     <Files>
       <File FileName="Assets/First Person Drifter Controller/Scripts/LockMouse.cs" Line="18" Column="24" />
+      <File FileName="Assets/Player/ClickThings.cs" Line="10" Column="30" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
